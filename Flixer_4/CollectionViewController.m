@@ -85,8 +85,16 @@
     [cell.movieImageView setImageWithURL:posterURL];
     
     return cell;
+    
 }
 
+- (CGSize)collectionView:(UICollectionView *) collectionView layout:(nonnull UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(nonnull NSIndexPath *)indexPath {
+    int totalWidth = self.collectionView.bounds.size.width;
+    int numberOfCellsPerRow = 3;
+    int widthDimensions = (CGFloat) (totalWidth / numberOfCellsPerRow);
+    int heightDimensions = widthDimensions * 1.2;
+    return CGSizeMake(widthDimensions, heightDimensions);
+}
 
 
 

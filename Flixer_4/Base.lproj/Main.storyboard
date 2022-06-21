@@ -81,7 +81,7 @@
                             <constraint firstItem="CO1-84-Y7L" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="bS7-Oj-3NL"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Movies" id="rKC-rQ-iTb"/>
+                    <tabBarItem key="tabBarItem" title="Movies" image="now_playing_tabbar_item" id="rKC-rQ-iTb"/>
                     <navigationItem key="navigationItem" id="1gc-Ca-8k7"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
@@ -221,6 +221,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="now_playing_tabbar_item" width="21" height="21"/>
         <systemColor name="linkColor">
             <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
