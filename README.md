@@ -16,27 +16,6 @@ The following **required** functionality is complete:
 - [✅] User sees an error message when there's a networking error.
 - [✅] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
-The following **optional** features are implemented:
-
-- [❌] User can tap a poster in the collection view to see a detail screen of that movie
-- [❌] User can search for a movie.
-- [❌] All images fade in as they are loading.
-- [❌] User can view the large movie poster by tapping on a cell.
-- [❌] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
-- [❌] Customize the selection effect of the cell.
-- [❌] Customize the navigation bar.
-- [❌] Customize the UI.
-- [❌] Run your app on a real device.
-
-The following **additional** features are implemented:
-
-- [ ] Lazy loading
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1. Better ways to structure grid layouts
-2. Potentially adding movie trailers to the app
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
