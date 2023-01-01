@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://media.giphy.com/media/Pk91imIVquxVZLTjC3/giphy.gif
+[https://media.giphy.com/media/Pk91imIVquxVZLTjC3/giphy.gif](https://giphy.com/gifs/JqBpvxbC3vQvhXWKXV)
 
 GIF created with [Kap](https://getkap.co/).
 
